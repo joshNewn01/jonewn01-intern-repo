@@ -129,3 +129,9 @@ Hours Total: 96+ hours
 
 Hours Completed: 9+ hours
 Hours Total: 105+ hours
+
+### Extra Comments:
+
+ - I had installed Focus Bear on the 14th of October, 2026
+ - I have started Focus Sessions, manually logging the first week and then the rest automatically sync now that the accounts are properly linked
+ - ![Screenshot Evidence of Completed Focus Sessions](./jonewn01-intern-repo/images/focussessionimage.png)
